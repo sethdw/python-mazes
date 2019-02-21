@@ -4,4 +4,4 @@ Graphical maze generation program with solving and editing. Uses Recursive Backt
 
 Supports any size maze, but gets slow over 100*100
 
-Written for A-level coursework alongside a writeup. Please contact me if you're interested in seeing the writeup as well
+Written for A-level coursework alongside a writeup which included full research and justification of the algorithms used, along with extensive testing. Please contact me if you're interested in seeing the writeup as well.
